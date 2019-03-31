@@ -1,5 +1,5 @@
 <?php
 
-header('Location : mainprod.php');
+header('Location : mainpage.php');
 
 ?>
